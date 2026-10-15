@@ -1,27 +1,35 @@
-# Student Placement Management System
+# Railway Reservation System
 
 ## Project Overview
-A Python-based application designed to manage student information, company details, placement applications, and placement reports.
+The Railway Reservation System is a Python-based mini project that helps manage passenger registration, train details, ticket booking, ticket cancellation, and fare calculation.
 
 ## Technologies Used
 - Python
-- SQLite
-- SQL
+- VS Code
 
 ## Features
-- Add, view, search, update, and delete student records
-- Register and manage companies
-- Apply for placements
-- Check student eligibility using CGPA
-- Update application status
-- Generate placement reports
+- Passenger Registration
+- Add Train Details
+- Display Train Details
+- Book Railway Tickets
+- Cancel Tickets
+- Calculate Ticket Fare
+- Display Passenger List
 
-## How to Run
+## How to Run the Project
 1. Install Python on your computer.
-2. Download or clone this repository.
+2. Download or clone this project from GitHub.
 3. Open the project folder in VS Code.
-4. Run the command:
-   
-   `python main.py`
-## Purpose
-Developed as a college mini-project to practice Python programming, database management, and application development.
+4. Open the terminal.
+5. Run the following command:
+
+   `python railway_reservation.py`
+
+## How Fare Is Calculated
+Ticket Fare = Distance × Fare Rate per Kilometer
+
+## Project Purpose
+This project was developed as a college mini project to practice Python programming, functions, lists, conditional statements, and basic data management.
+
+## Author
+B.Tech Student
